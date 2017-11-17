@@ -1,0 +1,27 @@
+body{
+		font-family: 'Ubuntu',sans-serif;	
+	}
+	section{
+		height: 100vh;
+		width: 100vw;
+		padding: 50px;
+	}
+	button{
+
+	}
+	.cl_white{
+		color: white;
+	}
+	img{
+		width:300px;
+		transition: opacity 1s ease-in-out;
+	}
+	img:hover{
+		opacity: .5;
+	}
+	.col-text{
+		column-count: 3;
+	}
+	#home{
+		padding-top: 200px;
+	}
